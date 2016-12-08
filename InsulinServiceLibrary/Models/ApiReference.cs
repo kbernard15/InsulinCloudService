@@ -26,7 +26,9 @@ namespace InsulinServiceLibrary.Models
     [DataContract]
     public class ApiReference
     {
-        public string version;
-        public IList<apiRef> api;
+        [DataMember]
+        public string version { get; set; }
+        [DataMember]
+        public IList<apiRef> api { get; set; }
     }
 }
