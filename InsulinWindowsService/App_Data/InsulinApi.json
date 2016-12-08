@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0.0",
+  "api": [
+    {
+      "name": "GetInsulinCategories",
+      "url": "api/insulin/categories",
+      "description": "returns the list of available insulin categories",
+      "parameters": [
+        {
+          "name": "None",
+          "description": "None"
+        }
+      ]
+    },
+    {
+      "name": "GetInsulinCategoriesByCountry",
+      "url": "api/insulin/categories/{countrycode}",
+      "description": "returns the list of available insulin categories",
+      "parameters": [
+        {
+          "name": "countrycode",
+          "description": "The two letter country code used to translate the category names - eg US, DE"
+        }
+      ]
+    },
+    {
+      "name": "GetInsulinCountries",
+      "url": "api/insulin/countries",
+      "description": "returns the list of available insulin countries",
+      "parameters": [
+        {
+          "name": "None",
+          "description": "None"
+        }
+      ]
+    },
+    {
+      "name": "GetInsulinList",
+      "url": "api/insulin/list",
+      "description": "returns the list of available insulin",
+      "parameters": [
+        {
+          "name": "None",
+          "description": "None"
+        }
+      ]
+    },
+    {
+      "name": "GetInsulinByCountry",
+      "url": "api/insulin/{countrycode}",
+      "description": "returns the list of available insulin for the given country.",
+      "parameters": [
+        {
+          "name": "countrycode",
+          "description": "The two letter country code - eg US, DE"
+        }
+      ]
+    },
+   {
+      "name": "GetInsulin",
+      "url": "api/insulin/insulin/{id}",
+      "description": "returns insulin information for the given insulin GUID",
+      "parameters": [
+        {
+          "name": "id",
+          "description": "The GUID of the insulin to be returned."
+        }
+      ]
+    }
+  ]
+}

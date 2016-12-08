@@ -1,0 +1,728 @@
+﻿[
+  {
+    "Name": "Uslin",
+    "GUID": "7b799f78-29ae-4155-ba95-022f8ca06e37",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "NovoMix 70/30",
+    "GUID": "cfb8f15f-59e6-430a-bea9-02d6e2d8c413",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Actrapid",
+    "GUID": "2c9a51a6-2fee-41e1-a68f-030b26b486b5",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Ryzodeq",
+    "GUID": "8a913059-7830-4318-a703-04aa111038f8",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolin 30R",
+    "GUID": "4110e7e0-5fbb-4b57-882b-0952dd3c5c88",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Comb 25",
+    "GUID": "1625353f-ae3b-42e5-bf89-0a639a1c4e12",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "LiprologMix 50",
+    "GUID": "0034d2cf-30f6-45d2-a190-0ca6bf506bf7",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Betasint Porcina NPH",
+    "GUID": "8cd45e7c-6288-4214-88da-1110fbacf380",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Berlinsulin H 30/70",
+    "GUID": "56cb935c-5e12-4ba0-bfb7-18148811f840",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humalog Mix25",
+    "GUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humalog Mix 75/25",
+    "GUID": "d9b1aaa0-2b16-45bc-a218-1b36451fb304",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Ultralente",
+    "GUID": "eadf43f7-6894-4e14-8dab-1ba7defef9de",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Levemir",
+    "GUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "NovoLog Mix 30/70",
+    "GUID": "b61b86fc-5481-44bd-8aaf-236440c657a2",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "40/60",
+    "GUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolin 40/60",
+    "GUID": "960a9c88-3fd7-49a1-926c-291436fb48fc",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Biosulin R",
+    "GUID": "e1eb4d52-0e21-4d61-a233-2b3e931b3bcc",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Chang Xiu Lin",
+    "GUID": "2e12d773-f10d-4bd2-8829-325049b9cea1",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Liprolog",
+    "GUID": "fc300761-cbb1-4f20-96cc-357964dd95fd",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "25/75",
+    "GUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolin 50/50",
+    "GUID": "47372577-19a9-4872-b75c-38f6089c6fb7",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Lantus",
+    "GUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Insuman Infusat",
+    "GUID": "307ae925-f9ed-4aec-b290-3d5a650ab721",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "70/30",
+    "GUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "60/40",
+    "GUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "10/90",
+    "GUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Mixtard 50/50",
+    "GUID": "837e798b-615b-44be-94ad-4523f5501bf3",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "NovoMix 70",
+    "GUID": "25adba5f-b444-40fc-a8ba-4759bf346a7a",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin R",
+    "GUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insulin Aspart",
+    "GUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Biosulin 30/70",
+    "GUID": "62eeb8d9-6e47-40d9-bdd8-4c60b13cb912",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Toujeo",
+    "GUID": "de90eb9b-711e-481a-8663-4ea129748a69",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "NPH",
+    "GUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Insuman Comb",
+    "GUID": "8c50d2e2-fa70-4d03-8426-57baf7d51cc1",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humalog Mix 50/50",
+    "GUID": "e275ace6-1418-49c0-b394-57fc53cddbfa",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Comb 75",
+    "GUID": "01f21aab-8815-4756-91a2-5993ce9ee57a",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Comb 50",
+    "GUID": "50377481-0a54-449f-b6d7-5d5c0e0d04c8",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "NovoMix 50",
+    "GUID": "026d2146-3c97-434e-ab2e-6165f305b50e",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Regular",
+    "GUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Huminsulin Profil III",
+    "GUID": "873d59f3-1fc6-4191-ad05-61fd3d6c42aa",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Berlinsulin H Basal",
+    "GUID": "c180257f-0121-46c9-804b-62c538d1b685",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "NovoMix30/70",
+    "GUID": "0d6f4efb-5191-4cfc-a124-65cd8bf07654",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Human Insulin",
+    "GUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insulin Determir",
+    "GUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Biosulin L",
+    "GUID": "e1217379-ae2b-43c6-a24b-6828cf5056dc",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Lente",
+    "GUID": "40e94fab-3725-425b-82ae-699cd6302d2d",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "75/25",
+    "GUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insulin degludec/ Insulin Aspart",
+    "GUID": "283ec322-9729-47d6-a6c9-6e42ff9fcffb",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "NovoMix 50/50",
+    "GUID": "34d6544b-5c06-4941-8d66-71def84af8f2",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Generic Bolus",
+    "GUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Comb 30",
+    "GUID": "37ee7de7-d7ca-4ecf-bcb6-7497c7df9dc5",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin NPH",
+    "GUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Humulin 50/50",
+    "GUID": "ab1893a5-322d-4db8-892b-7581914926d3",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Basal",
+    "GUID": "a49f3c7f-d092-40e1-96ef-7bc9ea60fd25",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Wan Bang Lin N",
+    "GUID": "4f3d2837-bc3f-4425-9a11-7de031548e8f",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolog 70/30",
+    "GUID": "280264c8-384e-40ec-8665-83308340e6dd",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "NovoMix30",
+    "GUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insulin Degludec",
+    "GUID": "2cce6fa1-03a3-4978-a223-85482fd16d04",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Humalog Basal",
+    "GUID": "1a9c2554-94f8-41b9-a80a-862ba214c9d1",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Betasint Porcinia Lenta",
+    "GUID": "aa33bdea-d1fc-41a8-8026-8a148d10c669",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Betasint Bovina Corriente",
+    "GUID": "a0a5c642-1bb4-46e8-9623-8c26dbd828a9",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "NovoRapid",
+    "GUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin 10/90",
+    "GUID": "5a45b294-990b-4209-bd1e-8ef58a532ba4",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin U",
+    "GUID": "4950a867-3534-4719-a600-91ebed105033",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Humulin 70/30",
+    "GUID": "cdc138e4-ff89-43f2-ba3d-9324ca33a4dc",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Betasint Bovina NPH",
+    "GUID": "5d1ced0d-e553-420c-9678-932789699ec8",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Generic Inhaled",
+    "GUID": "f2ee69d6-2e02-4f18-b748-93db03c22e9f",
+    "CategoryName": "Inhaled Short-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.inhaled"
+  },
+  {
+    "Name": "Apidra",
+    "GUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Comb 15",
+    "GUID": "f7f384a2-3e22-45ed-b236-95bdf8df099c",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolin 30/70",
+    "GUID": "a8baed57-228e-4ed0-908d-9bd4e30503c6",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Protaphane",
+    "GUID": "cc27ad7a-2a76-479d-9b2d-9d57c9016e97",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Humalog",
+    "GUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Betasint Porcina Corriente",
+    "GUID": "21571c16-0df5-4d93-afdc-a821a7aef922",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Hypurin Porcine Isophane",
+    "GUID": "a54e6d5b-1cd7-4794-a4c3-a9824a808193",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Tresiba",
+    "GUID": "f6d40236-8414-4976-92d3-ac1bf1e0d42e",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Novolin 70/30",
+    "GUID": "30df2087-367f-46bf-aac8-ac26bfaad66e",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolog",
+    "GUID": "4aa697e0-c4e6-4d3e-bba4-acf060c61988",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin 20/80",
+    "GUID": "d6c6bbc3-dd49-4083-a7a8-b4640b53e359",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insuman Rapid",
+    "GUID": "71348f91-fa5c-45ff-aad1-b49bed975e3c",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humalog Mix50",
+    "GUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Hypurin Porcine Neutral",
+    "GUID": "8009fbdf-3bff-43d3-bd2c-b66cc689292d",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Betasint Bovina Lenta",
+    "GUID": "c67bf189-206f-4d5b-8247-b6adcf17c9e4",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Hypurin Bovine Protamine Zinc",
+    "GUID": "b882cd38-e2cd-4f57-acbf-b7cd6f863c10",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Generic Basal",
+    "GUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Insulatard",
+    "GUID": "dd463781-843f-429f-a454-be7f4d3398b3",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Hypurin Porcine 30/70",
+    "GUID": "003dde6d-410c-4cb4-b136-bec8a3c95100",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novamix 30",
+    "GUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "50/50",
+    "GUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "SciLin",
+    "GUID": "3fa47598-ad72-4107-8efc-c799e829b118",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Biosulin N",
+    "GUID": "d0b2f0e8-5d99-489f-ad2d-c7d6336462a2",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "90/10",
+    "GUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Actraphane",
+    "GUID": "b0008a23-baaf-4ed0-a63d-cd7fa37c85a2",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Hypurin Bovine Lente",
+    "GUID": "cd2b6d08-f40b-4e13-9807-d07fe4cb26ff",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Hypurin Bovine Isophane",
+    "GUID": "12a408d3-537b-4bf1-8311-d0de2bd8c7e5",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Gan Shu Lin 30R/R/N",
+    "GUID": "cb5e0666-211a-47c4-91b1-d1643cfc262d",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolin N",
+    "GUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Novolin R",
+    "GUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Su Mi Lin En",
+    "GUID": "0027024c-7191-4684-b617-d938ba5af2f5",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "80/20",
+    "GUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin N",
+    "GUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Wan Su Lin",
+    "GUID": "312dc859-8a44-428a-b5d3-db59d82130fe",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin 40/60",
+    "GUID": "89417f08-4c09-4343-b6c9-dbf1b2fb28fa",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Novolin 50R",
+    "GUID": "03d9370a-2865-4fdf-8adc-dc7f67fdcb58",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Afrezza",
+    "GUID": "58f09e9e-7800-4fb5-9ccc-dfc342ada8d8",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin I",
+    "GUID": "b6d63ebd-656d-4112-b762-e11ec0223219",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "20/80",
+    "GUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin L",
+    "GUID": "58273a7b-997f-428c-bcfb-e4993e6d708a",
+    "CategoryName": "Intermediate-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Abasaglar",
+    "GUID": "57223897-e837-4b4d-95d4-e92ab2047d1b",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Su Bi Lin",
+    "GUID": "0c90e6b0-8c0f-4c8f-b6cc-ea5d5e975213",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insulin Glargine",
+    "GUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CategoryName": "Long-acting",
+    "CategoryTypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Hypurin Bovine Neutral",
+    "GUID": "bd88e01f-bec8-4ded-af52-f0be2765120c",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Berlinsulin H Normal",
+    "GUID": "5e6cdd40-3370-4574-b918-f1c33cacc34b",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Normal Insulin",
+    "GUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "LiprologMix 25",
+    "GUID": "27651189-e239-490f-809f-f561bd6a4800",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Mixtard 30/70",
+    "GUID": "1553ffaa-90ec-493b-840f-f7aea66aa4dc",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Gan Shu Lin 50R",
+    "GUID": "d4a57950-53ff-4c34-afba-faf57785fa42",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Generic Other",
+    "GUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CategoryName": "Other",
+    "CategoryTypeKey": "cdf.medcls.insulin.other"
+  },
+  {
+    "Name": "Insulin Glulisine",
+    "GUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Insulin Lispro",
+    "GUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "Humulin 30/70",
+    "GUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  },
+  {
+    "Name": "30/70",
+    "GUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CategoryName": "Premixed",
+    "CategoryTypeKey": "cdf.medcls.insulin.mixed"
+  }
+]
