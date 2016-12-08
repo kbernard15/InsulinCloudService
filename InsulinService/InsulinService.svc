@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Service="InsulinServiceLibrary.InsulinHttpService"
+                Factory="System.ServiceModel.Activation.WebServiceHostFactory" %>

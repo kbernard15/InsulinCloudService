@@ -1,0 +1,51 @@
+﻿[
+  {
+    "Name": "Rapid-acting",
+    "CategoryTypeId": 1,
+    "Slot": 1,
+    "SlotTypeKey": "cdf.slot.01",
+    "TypeKey": "cdf.medcls.insulin.rapid"
+  },
+  {
+    "Name": "Short-acting",
+    "CategoryTypeId": 2,
+    "Slot": 1,
+    "SlotTypeKey": "cdf.slot.01",
+    "TypeKey": "cdf.medcls.insulin.short"
+  },
+  {
+    "Name": "Long-acting",
+    "CategoryTypeId": 4,
+    "Slot": 2,
+    "SlotTypeKey": "cdf.slot.02",
+    "TypeKey": "cdf.medcls.insulin.long"
+  },
+  {
+    "Name": "Inhaled Short-acting",
+    "CategoryTypeId": 6,
+    "Slot": 3,
+    "SlotTypeKey": "cdf.slot.03",
+    "TypeKey": "cdf.medcls.insulin.inhaled"
+  },
+  {
+    "Name": "Intermediate-acting",
+    "CategoryTypeId": 3,
+    "Slot": 3,
+    "SlotTypeKey": "cdf.slot.03",
+    "TypeKey": "cdf.medcls.insulin.intermediate"
+  },
+  {
+    "Name": "Other",
+    "CategoryTypeId": 7,
+    "Slot": 3,
+    "SlotTypeKey": "cdf.slot.03",
+    "TypeKey": "cdf.medcls.insulin.other"
+  },
+  {
+    "Name": "Premixed",
+    "CategoryTypeId": 5,
+    "Slot": 3,
+    "SlotTypeKey": "cdf.slot.03",
+    "TypeKey": "cdf.medcls.insulin.mixed"
+  }
+]

@@ -1,0 +1,12 @@
+﻿[
+  {
+    "Code": "en-us",
+    "TypeKey": "cdf.medcls.insulin.rapid",
+    "Translation":  "Rapid-acting en-us"
+  },
+  {
+    "Code":  "US",
+    "TypeKey": "cdf.medcls.insulin.short",
+    "Translation" :  "Short-acting us"
+  }
+]

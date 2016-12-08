@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="InsulinServiceLibrary.InsulinHttpService"%>
+<!--<%@ ServiceHost Language="C#" Debug="true" Service="InsulinService.Service1" CodeBehind="InsulinService.svc.cs" %>-->

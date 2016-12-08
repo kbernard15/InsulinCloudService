@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "InsulinCloudService", "InsulinCloudService\InsulinCloudService.ccproj", "{8FB74A9F-C831-473E-A46D-F6062FE529FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsulinService", "InsulinService\InsulinService.csproj", "{A616F790-9679-4D72-8DD2-7C5CDCBBEFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsulinServiceLibrary", "InsulinServiceLibrary\InsulinServiceLibrary.csproj", "{28B1D953-C631-4983-B537-8081190954E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsulinServiceConsoleHost", "InsulinServiceConsoleHost\InsulinServiceConsoleHost.csproj", "{D1B101F8-D1A7-466A-AB23-3BD00B660894}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFInsulinService", "WebSites\WCFInsulinService\", "{C164B8FC-E846-4FE4-8894-AE457C18DE5C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{28b1d953-c631-4983-b537-8081190954e3}|InsulinServiceLibrary.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61827"
+		Debug.AspNetCompiler.PhysicalPath = "WebSites\WCFInsulinService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61827\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61827"
+		Release.AspNetCompiler.PhysicalPath = "WebSites\WCFInsulinService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61827\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61827"
+		SlnRelativePath = "WebSites\WCFInsulinService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB74A9F-C831-473E-A46D-F6062FE529FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB74A9F-C831-473E-A46D-F6062FE529FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB74A9F-C831-473E-A46D-F6062FE529FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB74A9F-C831-473E-A46D-F6062FE529FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A616F790-9679-4D72-8DD2-7C5CDCBBEFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A616F790-9679-4D72-8DD2-7C5CDCBBEFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A616F790-9679-4D72-8DD2-7C5CDCBBEFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A616F790-9679-4D72-8DD2-7C5CDCBBEFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B1D953-C631-4983-B537-8081190954E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B1D953-C631-4983-B537-8081190954E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B1D953-C631-4983-B537-8081190954E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B1D953-C631-4983-B537-8081190954E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B101F8-D1A7-466A-AB23-3BD00B660894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B101F8-D1A7-466A-AB23-3BD00B660894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B101F8-D1A7-466A-AB23-3BD00B660894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B101F8-D1A7-466A-AB23-3BD00B660894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C164B8FC-E846-4FE4-8894-AE457C18DE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164B8FC-E846-4FE4-8894-AE457C18DE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C164B8FC-E846-4FE4-8894-AE457C18DE5C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164B8FC-E846-4FE4-8894-AE457C18DE5C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

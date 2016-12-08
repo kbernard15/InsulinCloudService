@@ -1,0 +1,98 @@
+﻿[
+  {
+    "Name": "United States of America",
+    "Code": "US"
+  },
+  {
+    "Name": "Canada",
+    "Code": "CA"
+  },
+  {
+    "Name": "China",
+    "Code": "CN"
+  },
+  {
+    "Name": "Australia",
+    "Code": "AU"
+  },
+  {
+    "Name": "Italy",
+    "Code": "IT"
+  },
+  {
+    "Name": "South Africa",
+    "Code": "ZA"
+  },
+  {
+    "Name": "Russia",
+    "Code": "RU"
+  },
+  {
+    "Name": "Brazil",
+    "Code": "BR"
+  },
+  {
+    "Name": "Germany",
+    "Code": "DE"
+  },
+  {
+    "Name": "France",
+    "Code": "FR"
+  },
+  {
+    "Name": "Turkey",
+    "Code": "TR"
+  },
+  { 
+    "Name": "Rest of World",
+    "Code": "ROW"
+  },
+  {
+    "Name": "Bahrai",
+    "Code": "BH"
+  },
+  {
+    "Name": "Egypt",
+    "Code": "EG"
+  },
+  {
+    "Name": "Israel",
+    "Code": "IL"
+  },
+  {
+    "Name": "Jordan",
+    "Code": "JO"
+  },
+  {
+    "Name": "Kuwait",
+    "Code": "KW"
+  },
+  {
+    "Name": "Lebanon",
+    "Code": "LB"
+  },
+  {
+    "Name": "Lybia",
+    "Code": "LY"
+  },
+  {
+    "Name": "Morocco",
+    "Code": "MA"
+  },
+  {
+    "Name": "Oman",
+    "Code": "OM"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Code": "SA"
+  },
+  {
+    "Name": "Tunisia",
+    "Code": "TN"
+  },
+  {
+    "Name": "United Arab Emirates",
+    "Code": "AE"
+  }
+]

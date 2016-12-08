@@ -1,0 +1,1702 @@
+﻿[
+  {
+    "InsulinGUID": "0027024c-7191-4684-b617-d938ba5af2f5",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "026d2146-3c97-434e-ab2e-6165f305b50e",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "03d9370a-2865-4fdf-8adc-dc7f67fdcb58",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "0599060a-02e6-4b41-a580-d2776bab49dc",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "0c90e6b0-8c0f-4c8f-b6cc-ea5d5e975213",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "0f7ac24f-c8b3-45bc-b286-25210f995524",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "1156f8f3-cd12-4039-95c9-c6a4178075e1",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "11ac394b-03c2-4246-ac0a-36f7bd2b1a74",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "12a408d3-537b-4bf1-8311-d0de2bd8c7e5",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "12c41599-a176-4835-998c-558565b96f0f",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "1553ffaa-90ec-493b-840f-f7aea66aa4dc",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "1a9c2554-94f8-41b9-a80a-862ba214c9d1",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "2083e4fb-3c2a-46a0-8649-fe410713f4ee",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "20aa0938-549f-4c8a-a8dc-a1e68c787e51",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "2130a6a1-b4f6-42f9-b512-8d61f71300df",
+    "CountryCode": "ROW"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "21d7eea0-0199-4290-91dc-40a8ab4400b3",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "280264c8-384e-40ec-8665-83308340e6dd",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "2b44ce61-1e1d-43d0-9bd9-b5442b9421c8",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "2c9a51a6-2fee-41e1-a68f-030b26b486b5",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "2c9a51a6-2fee-41e1-a68f-030b26b486b5",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "2c9a51a6-2fee-41e1-a68f-030b26b486b5",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "2e12d773-f10d-4bd2-8829-325049b9cea1",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "307ae925-f9ed-4aec-b290-3d5a650ab721",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "30df2087-367f-46bf-aac8-ac26bfaad66e",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "312dc859-8a44-428a-b5d3-db59d82130fe",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "34d6544b-5c06-4941-8d66-71def84af8f2",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "34df8e31-4ccb-4ca3-bf3f-fe633a2e3168",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "379f417d-0b53-4d40-8dd6-3ae563c8d1bc",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "37ee7de7-d7ca-4ecf-bcb6-7497c7df9dc5",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "3be05956-aaa0-4962-bb36-18c32f4bc844",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "3fa47598-ad72-4107-8efc-c799e829b118",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "40e94fab-3725-425b-82ae-699cd6302d2d",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "4110e7e0-5fbb-4b57-882b-0952dd3c5c88",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "429873e2-ca33-4dc6-b74c-73c0a82d4dbb",
+    "CountryCode": "ROW"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "4704fcec-3d28-4704-890f-402f5fdf7fcb",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "47372577-19a9-4872-b75c-38f6089c6fb7",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "47f67feb-8cb7-4c55-95f3-2285b7e97656",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "4950a867-3534-4719-a600-91ebed105033",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "4aa697e0-c4e6-4d3e-bba4-acf060c61988",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "4e6307e0-4474-4945-8043-ca331e010c35",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "4f3d2837-bc3f-4425-9a11-7de031548e8f",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "50377481-0a54-449f-b6d7-5d5c0e0d04c8",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "53eb0136-0cb3-4b6d-bdd4-ec9ad2805cb7",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "55188b34-99f7-4a8f-a850-669f95d6bc66",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "57223897-e837-4b4d-95d4-e92ab2047d1b",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "58273a7b-997f-428c-bcfb-e4993e6d708a",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "582f545c-598c-46db-a280-b97b43605cd4",
+    "CountryCode": "ROW"
+  },
+  {
+    "InsulinGUID": "58f09e9e-7800-4fb5-9ccc-dfc342ada8d8",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "5a45b294-990b-4209-bd1e-8ef58a532ba4",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "5b5ff3b1-43f7-449c-bb04-bf626e478d3e",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "62eeb8d9-6e47-40d9-bdd8-4c60b13cb912",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "669823e2-b02b-441a-b509-6a50d4eac712",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "71348f91-fa5c-45ff-aad1-b49bed975e3c",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "71b09337-fb59-494e-9377-da7b7ec4eee2",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "745fb3ff-0f0c-48a1-8682-84638e03a299",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "7b799f78-29ae-4155-ba95-022f8ca06e37",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "837e798b-615b-44be-94ad-4523f5501bf3",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "854d2a8c-d7fa-4642-a721-ffd480110fc2",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "873737a7-7f52-4193-aefb-e3e730012fab",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "89417f08-4c09-4343-b6c9-dbf1b2fb28fa",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "8a913059-7830-4318-a703-04aa111038f8",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "8afda0b3-f62f-4ec9-82e0-7530324291bf",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "8c50d2e2-fa70-4d03-8426-57baf7d51cc1",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "8f13f23c-2df0-440e-a323-6600e443d854",
+    "CountryCode": "ROW"
+  },
+  {
+    "InsulinGUID": "960a9c88-3fd7-49a1-926c-291436fb48fc",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "a2934136-5ea6-4211-8039-fcfe1d09933b",
+    "CountryCode": "ROW"
+  },
+  {
+    "InsulinGUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "a3aa0eb4-8ba7-4c67-8245-f41b89bd05ef",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "a49f3c7f-d092-40e1-96ef-7bc9ea60fd25",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "a8baed57-228e-4ed0-908d-9bd4e30503c6",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "ab1893a5-322d-4db8-892b-7581914926d3",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "adda751f-4481-4b34-8789-9499f377ec1e",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "b0008a23-baaf-4ed0-a63d-cd7fa37c85a2",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "b0008a23-baaf-4ed0-a63d-cd7fa37c85a2",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "b12606eb-1a2e-41c3-9a74-db39f4982dd3",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "b6d63ebd-656d-4112-b762-e11ec0223219",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "b8656d5d-6fe3-4aca-a518-49f04bfcf703",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "bd88e01f-bec8-4ded-af52-f0be2765120c",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "cb5e0666-211a-47c4-91b1-d1643cfc262d",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "cc27ad7a-2a76-479d-9b2d-9d57c9016e97",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "cc27ad7a-2a76-479d-9b2d-9d57c9016e97",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "cc27ad7a-2a76-479d-9b2d-9d57c9016e97",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "cdc138e4-ff89-43f2-ba3d-9324ca33a4dc",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "cdc138e4-ff89-43f2-ba3d-9324ca33a4dc",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "cdc138e4-ff89-43f2-ba3d-9324ca33a4dc",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "cf75ee99-bdf7-4c9b-b3a5-d6105fb22c95",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "cfb8f15f-59e6-430a-bea9-02d6e2d8c413",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "d0b2f0e8-5d99-489f-ad2d-c7d6336462a2",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "d3f886f9-803c-432d-8d7f-ff613086ddc9",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "d4a57950-53ff-4c34-afba-faf57785fa42",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "d5aeb9be-56e7-42fa-ae14-4ab041f53347",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "d6c6bbc3-dd49-4083-a7a8-b4640b53e359",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "d943fd67-0148-4d7c-94e6-61ba4892acb8",
+    "CountryCode": "TR"
+  },
+  {
+    "InsulinGUID": "d9b1aaa0-2b16-45bc-a218-1b36451fb304",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "de90eb9b-711e-481a-8663-4ea129748a69",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "e1217379-ae2b-43c6-a24b-6828cf5056dc",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "e1eb4d52-0e21-4d61-a233-2b3e931b3bcc",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "e275ace6-1418-49c0-b394-57fc53cddbfa",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "eadf43f7-6894-4e14-8dab-1ba7defef9de",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "f6d40236-8414-4976-92d3-ac1bf1e0d42e",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "US"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "CA"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "CN"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "AU"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "IT"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "ZA"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "RU"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "BR"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "DE"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "FR"
+  },
+  {
+    "InsulinGUID": "f8ba960f-e1c2-44c3-88ef-427f7078183a",
+    "CountryCode": "TR"
+  }
+]
