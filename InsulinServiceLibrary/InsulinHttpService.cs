@@ -4,11 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
-using System.Runtime.Serialization;
 using System.ServiceModel;
-using System.Text;
 
 namespace InsulinServiceLibrary
 {
