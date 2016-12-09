@@ -12,6 +12,12 @@ namespace InsulinServiceLibrary
     [ServiceBehavior(InstanceContextMode=InstanceContextMode.PerCall)]
     public class InsulinHttpService : IInsulinHttpService
     {
+
+        public InsulinHttpService()
+        {
+            watch();
+        }
+
         private class Locale
         {
             public string localeString;
@@ -19,7 +25,7 @@ namespace InsulinServiceLibrary
             public string countryCode;
         }
 
-        #region static data
+        #region Static Data
 
         private static string appDataPath;
         private static string AppDataPath
@@ -138,6 +144,7 @@ namespace InsulinServiceLibrary
 
         #endregion
 
+        #region Service Methods
 
         public ApiReference GetApiDocumentation()
         {
@@ -254,7 +261,66 @@ namespace InsulinServiceLibrary
             return ret;
         }
 
+        #endregion
+
         #region Private Methods
+
+        private static IList<FileSystemWatcher> watcherArray = new List<FileSystemWatcher>();
+
+        private static void watch()
+        {
+            string[] jsonFiles = Directory.GetFiles(AppDataPath, "*.json")
+                                     .Select(Path.GetFileName)
+                                     .ToArray();
+
+            foreach (var file in jsonFiles)
+            {
+                FileSystemWatcher watcher = new FileSystemWatcher();
+                watcher.Path = AppDataPath;
+                watcher.NotifyFilter = NotifyFilters.LastWrite;
+                watcher.Filter = file;
+                watcher.Changed += new FileSystemEventHandler(OnChanged);
+                watcher.EnableRaisingEvents = true;
+                watcherArray.Add(watcher);
+            }
+        }
+
+        private static void OnChanged(object source, FileSystemEventArgs e)
+        {
+            FileSystemWatcher watcher = source as FileSystemWatcher;
+            if (watcher != null)
+            {
+                ClearCachedItem(watcher.Filter.ToLowerInvariant());
+            }
+        }
+
+        private static void ClearCachedItem(string filterItem)
+        {
+            switch (filterItem)
+            {
+                case "insulin.json":
+                    insulinList = null;
+                    break;
+                case "insulinapi.json":
+                    apiDocumentation = null;
+                    break;
+                case "insulincategories.json":
+                    apiDocumentation = null;
+                    break;
+                case "insulincategorytranslations.json":
+                    apiDocumentation = null;
+                    break;
+                case "insulincountries.json":
+                    apiDocumentation = null;
+                    break;
+                case "insulincountrymap.json":
+                    apiDocumentation = null;
+                    break;
+                case "insulinnametranslations.json":
+                    apiDocumentation = null;
+                    break;
+            }
+        }
 
         private Locale GetLocale(string localeString)
         {
