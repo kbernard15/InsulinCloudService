@@ -28,6 +28,7 @@ namespace InsulinWindowsService
             process.Account = ServiceAccount.LocalSystem;
             service = new ServiceInstaller();
             service.ServiceName = "InsulinWindowsService";
+            service.Description = "Roche Diabetes Care Insulin Microservice";
             Installers.Add(process);
             Installers.Add(service);
         }
